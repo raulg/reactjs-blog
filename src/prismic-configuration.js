@@ -1,6 +1,6 @@
 import Prismic from 'prismic-javascript'
 
-const apiEndpoint = 'https://your-repo-name.prismic.io/api/v2'
+const apiEndpoint = 'https://react-blog-demo.prismic.io/api/v2'
 
 // -- Access token if the Master is not open
 const accessToken = ''
